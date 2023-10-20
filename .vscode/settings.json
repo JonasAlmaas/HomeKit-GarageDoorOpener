@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.qss": "css",
+        "unordered_set": "cpp",
+        "arduino_homekit_server.h": "c"
+    },
+    "cSpell.words": [
+        "homekit"
+    ]
+}
